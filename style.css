@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: azure;
+
+    
+}
+.All {
+    margin: 200px;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    padding: 30px;
+    width: 800px;
+    grid-gap: 25px;
+    background-color: rgb(255, 255, 255);
+}
+.text2 a{
+    text-decoration: none;
+}
+.text3 a{
+    text-decoration: none;
+}
+.text4 a{
+    text-decoration: none;
+}
